@@ -1,0 +1,12 @@
+{
+    "type": "bedrockthings:star_recipe",
+    "ingredients": [{"item": "bedrockthings:nether_star_chunk"}, {"item": "minecraft:diamond_sword"}],
+    "result":
+    {
+        "item": "bedrockthings:charged_diamond_sword"
+    },
+    "keep":
+    {
+    	"item": "minecraft:diamond_sword"
+    }
+}

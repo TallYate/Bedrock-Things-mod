@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "bedrockthings:bedrock_pickaxe"
+    ]
+  },
+  "criteria": {
+    "has_busted_bedrock": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "bedrockthings:busted_bedrock"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "bedrockthings:bedrock_pickaxe"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_busted_bedrock",
+      "has_the_recipe"
+    ]
+  ]
+}

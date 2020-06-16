@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "B",
+        "I",
+        "I"
+    ],
+   
+    "key":
+    {
+        "B":
+        {
+            "item": "minecraft:bedrock"
+        },
+        "I":
+        {
+        	"item":"minecraft:stick"
+        }
+    },
+   
+    "result":
+    {
+        "item": "bedrockthings:bedrock_shovel",
+        "count": 1
+    }
+}
