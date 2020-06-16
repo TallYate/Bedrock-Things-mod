@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "BBB",
+        "B B",
+        "B B"
+    ],
+   
+    "key":
+    {
+        "B":
+        {
+            "item": "minecraft:bedrock"
+        }
+    },
+   
+    "result":
+    {
+        "item": "bedrockthings:bedrock_leggings",
+        "count": 1
+    }
+}

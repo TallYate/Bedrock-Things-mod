@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "BBB",
+        "B B"
+    ],
+   
+    "key":
+    {
+        "B":
+        {
+            "item": "minecraft:bedrock"
+        }
+    },
+   
+    "result":
+    {
+        "item": "bedrockthings:bedrock_helmet",
+        "count": 1
+    }
+}

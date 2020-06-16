@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "BB",
+        "IB",
+        "I "
+    ],
+   
+    "key":
+    {
+        "B":
+        {
+            "item": "minecraft:bedrock"
+        },
+        "I":
+        {
+        	"item":"minecraft:stick"
+        }
+    },
+   
+    "result":
+    {
+        "item": "bedrockthings:bedrock_axe",
+        "count": 1
+    }
+}

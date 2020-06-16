@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:nether_star"
+        }
+    ],
+    "result":
+    {
+        "item": "bedrockthings:nether_star_chunk",
+        "count": 4
+    }
+}

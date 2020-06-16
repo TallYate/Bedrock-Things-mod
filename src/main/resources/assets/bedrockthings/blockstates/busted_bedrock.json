@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "bedrockthings:block/busted_bedrock" },
+            { "model": "bedrockthings:block/busted_bedrock_mirrored" },
+            { "model": "bedrockthings:block/busted_bedrock", "y": 180 },
+            { "model": "bedrockthings:block/busted_bedrock_mirrored", "y": 180 }
+        ]
+    }
+}
