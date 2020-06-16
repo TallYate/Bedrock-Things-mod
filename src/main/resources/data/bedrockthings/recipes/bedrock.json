@@ -1,9 +1,0 @@
-{
-    "type": "minecraft:crafting_shapeless",
-    "ingredients": [{"item": "bedrockthings:nether_star_chunk"}, {"item": "bedrockthings:busted_bedrock"}],
-    "result":
-    {
-        "item": "minecraft:bedrock",
-        "count": 1
-    }
-}
